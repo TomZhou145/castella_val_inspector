@@ -14,6 +14,11 @@ export const BUILTIN_ANNOTATIONS: Record<string, string> = {
   highlr: "High learning-rate sweep",
 };
 
+// Models shown pinned at the top for everyone, vs. tucked into a personal
+// folder in the sidebar directory alongside that person's own uploads.
+export const TOP_ROW_MODELS = ["baseline", "decay"];
+export const PERSONAL_FOLDER_NAME = "Tom";
+
 // Rotated through for community-uploaded profiles, in upload order.
 export const COMMUNITY_PALETTE = [
   "20,184,166", // teal

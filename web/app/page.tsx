@@ -7,7 +7,14 @@ import TrackLanes, { type Track } from "@/components/TrackLanes";
 import UploadProfilePanel from "@/components/UploadProfilePanel";
 import ProfileDirectory from "@/components/ProfileDirectory";
 import IouBadge from "@/components/IouBadge";
-import { GT_COLOR, BUILTIN_ANNOTATIONS, colorForModel, colorForCommunityProfile } from "@/lib/colors";
+import {
+  GT_COLOR,
+  BUILTIN_ANNOTATIONS,
+  TOP_ROW_MODELS,
+  PERSONAL_FOLDER_NAME,
+  colorForModel,
+  colorForCommunityProfile,
+} from "@/lib/colors";
 import { top1Iou } from "@/lib/iou";
 import { LABEL_WIDTH } from "@/lib/layout";
 import { fetchProfiles, deleteProfile, type CommunityProfile } from "@/lib/profilesApi";
@@ -56,14 +63,19 @@ export default function Home() {
 
   const profiles: Profile[] = useMemo(() => {
     if (!data) return [];
-    const builtins: Profile[] = data.models.map((model) => ({
-      id: model,
-      name: model,
-      annotation: BUILTIN_ANNOTATIONS[model] ?? "",
-      color: colorForModel(model),
-      builtin: true,
-      windowsFor: (qid: string) => data.qids[qid]?.preds[model],
-    }));
+    const builtins: Profile[] = data.models.map((model) => {
+      const isTopRow = TOP_ROW_MODELS.includes(model);
+      return {
+        id: model,
+        name: model,
+        annotation: BUILTIN_ANNOTATIONS[model] ?? "",
+        color: colorForModel(model),
+        builtin: isTopRow,
+        folder: isTopRow ? undefined : PERSONAL_FOLDER_NAME,
+        deletable: false,
+        windowsFor: (qid: string) => data.qids[qid]?.preds[model],
+      };
+    });
     const community: Profile[] = communityProfiles.map((p, i) => ({
       id: p.id,
       name: p.name,
@@ -71,6 +83,7 @@ export default function Home() {
       color: colorForCommunityProfile(i),
       builtin: false,
       folder: p.folder,
+      deletable: true,
       windowsFor: (qid: string) => p.predictions[qid],
     }));
     return [...builtins, ...community];
@@ -115,6 +128,7 @@ export default function Home() {
   };
 
   const handleDeleteProfile = async (profile: Profile) => {
+    if (!profile.deletable) return;
     if (!window.confirm(`Delete "${profile.name}" for everyone? This can't be undone.`)) return;
     try {
       await deleteProfile(profile.id);

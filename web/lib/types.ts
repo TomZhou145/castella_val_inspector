@@ -26,6 +26,7 @@ export interface Profile {
   annotation: string;
   color: string;
   builtin: boolean;
-  folder?: string; // uploader name, community profiles only
+  folder?: string; // uploader name, shown grouped in the sidebar directory
+  deletable: boolean; // only true for real Blob-backed community uploads
   windowsFor: (qid: string) => Window3[] | undefined;
 }

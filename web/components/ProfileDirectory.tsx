@@ -109,13 +109,15 @@ export default function ProfileDirectory({
                         <span className="truncate">{profile.name}</span>
                       </label>
                       <IouBadge value={top1Iou(gtWindows, profile.windowsFor(selectedQid) ?? [])} />
-                      <button
-                        onClick={() => onDelete(profile)}
-                        title="Delete this profile for everyone"
-                        className="text-zinc-400 hover:text-red-500 leading-none px-0.5 shrink-0"
-                      >
-                        ×
-                      </button>
+                      {profile.deletable && (
+                        <button
+                          onClick={() => onDelete(profile)}
+                          title="Delete this profile for everyone"
+                          className="text-zinc-400 hover:text-red-500 leading-none px-0.5 shrink-0"
+                        >
+                          ×
+                        </button>
+                      )}
                     </li>
                   ))}
                 </ul>
