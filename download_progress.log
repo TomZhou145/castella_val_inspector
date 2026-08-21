@@ -1,0 +1,365 @@
+[download] 100% of    1.74MiB in 00:00:00 at 3.23MiB/s[1/178] rqfQRErjfk8: cached
+                                                      OK rwT__ERCUno
+[download] 100% of  852.14KiB in 00:00:00 at 1.54MiB/s[2/178] rwT__ERCUno: done
+                                                      OK rwb6PSAee5Y
+[download] 100% of    1.19MiB in 00:00:01 at 811.18KiB/s[3/178] rwb6PSAee5Y: done
+                                                        OK rwtmaKiCcQU
+[download] 100% of    1.58MiB in 00:00:02 at 641.67KiB/s[4/178] rwtmaKiCcQU: done
+                                                        OK s3cT_DAj31g
+[download] 100% of    3.42MiB in 00:00:01 at 2.47MiB/s[5/178] s3cT_DAj31g: done
+                                                      OK s4Uz1Ffgo04
+[download] 100% of    3.98MiB in 00:00:04 at 1015.90KiB/s[6/178] s4Uz1Ffgo04: done
+                                                         OK s4tUs779vBA
+[download] 100% of    3.63MiB in 00:00:01 at 2.67MiB/s[7/178] s4tUs779vBA: done
+                                                      OK s7knHCFW82w
+[download] 100% of    4.22MiB in 00:00:01 at 2.11MiB/s[8/178] s7knHCFW82w: done
+                                                      OK sC_i_y7QS1U
+[download] 100% of    4.44MiB in 00:00:01 at 4.20MiB/s[9/178] sC_i_y7QS1U: done
+                                                      OK sEprKHm8Sj8
+[download] 100% of    1.42MiB in 00:00:00 at 4.13MiB/s[10/178] sEprKHm8Sj8: done
+                                                      OK sIXTftIuUgw
+[download] 100% of    2.81MiB in 00:00:00 at 3.23MiB/s[11/178] sIXTftIuUgw: done
+                                                      OK sLkeqCDJIyw
+[download] 100% of    1.02MiB in 00:00:05 at 181.20KiB/s[12/178] sLkeqCDJIyw: done
+                                                        OK sNB8zxXneIM
+[download] 100% of    1.65MiB in 00:00:00 at 3.00MiB/s[13/178] sNB8zxXneIM: done
+                                                      OK sOa7g-44Dag
+[download] 100% of    1.62MiB in 00:00:00 at 3.24MiB/s[14/178] sOa7g-44Dag: done
+                                                      OK sSMl2vc3e_k
+[download] 100% of    1.54MiB in 00:00:00 at 2.24MiB/s[15/178] sSMl2vc3e_k: done
+                                                      OK sYITalLZjj4
+[download] 100% of    3.46MiB in 00:00:00 at 3.49MiB/s[16/178] sYITalLZjj4: done
+                                                      OK sZuuj08Gr_I
+[download] 100% of    3.94MiB in 00:02:24 at 27.95KiB/s[17/178] sZuuj08Gr_I: done
+                                                       OK s_apQIQUhFc
+[download] 100% of    1.85MiB in 00:00:00 at 2.92MiB/s[18/178] s_apQIQUhFc: done
+                                                      OK sd7x_Vssqlw
+[download] 100% of    4.61MiB in 00:00:01 at 3.91MiB/s[19/178] sd7x_Vssqlw: done
+                                                      OK sd_XV-ylviw
+[download] 100% of    3.78MiB in 00:00:00 at 3.79MiB/s[20/178] sd_XV-ylviw: done
+                                                      OK se87d6yxEOA
+[download] 100% of  696.41KiB in 00:00:00 at 961.10KiB/s[21/178] se87d6yxEOA: done
+                                                        OK sfAvvZwdLCY
+[download] 100% of    2.80MiB in 00:00:01 at 2.32MiB/s[22/178] sfAvvZwdLCY: done
+                                                      OK sgAjFcKriHk
+ERROR: [youtube] slZLHwNbbt4: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+FAIL slZLHwNbbt4: ERROR: [youtube] slZLHwNbbt4: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[download] 100% of    1.98MiB in 00:00:00 at 2.77MiB/s[23/178] sgAjFcKriHk: done
+[24/178] slZLHwNbbt4: FAILED
+                                                      OK smGI3C1N_Zc
+[download] 100% of  948.44KiB in 00:00:01 at 738.82KiB/s[25/178] smGI3C1N_Zc: done
+                                                        OK sofxkNWaP0s
+[download] 100% of    2.87MiB in 00:00:01 at 1.93MiB/s[26/178] sofxkNWaP0s: done
+                                                      OK spJCm8tD9Zo
+[download] 100% of    2.67MiB in 00:00:01 at 2.22MiB/s[27/178] spJCm8tD9Zo: done
+                                                      OK sr1_Gfm0syI
+[download] 100% of    4.63MiB in 00:00:02 at 1.95MiB/s[28/178] sr1_Gfm0syI: done
+                                                      OK sxIvBMSavMQ
+[download] 100% of    1.23MiB in 00:00:00 at 1.58MiB/s[29/178] sxIvBMSavMQ: done
+                                                      OK syyyCQcHSfQ
+[download] 100% of    2.78MiB in 00:00:01 at 2.39MiB/s[30/178] syyyCQcHSfQ: done
+                                                      OK t25U-v4k4ts
+[download] 100% of    1.00MiB in 00:00:00 at 1.36MiB/s[31/178] t25U-v4k4ts: done
+                                                      OK t4WCFbE0A50
+[download] 100% of    2.10MiB in 00:00:00 at 2.40MiB/s[32/178] t4WCFbE0A50: done
+                                                      OK t69a8aRKhmc
+[download] 100% of    4.63MiB in 00:00:02 at 2.07MiB/s[33/178] t69a8aRKhmc: done
+                                                      OK t8CV69hcvF0
+[download] 100% of  965.06KiB in 00:00:01 at 836.37KiB/s[34/178] t8CV69hcvF0: done
+                                                        OK tDVADusiIoc
+[download] 100% of    3.12MiB in 00:00:00 at 3.16MiB/s[35/178] tDVADusiIoc: done
+                                                      OK tDlfY3nmx1A
+[download] 100% of  736.57KiB in 00:00:00 at 1.14MiB/s[36/178] tDlfY3nmx1A: done
+                                                      OK tDlysoZiA1I
+[download] 100% of    1.59MiB in 00:00:00 at 1.84MiB/s[37/178] tDlysoZiA1I: done
+                                                      OK tEE3MpBt1sg
+[download] 100% of    2.58MiB in 00:00:00 at 2.59MiB/s[38/178] tEE3MpBt1sg: done
+                                                      OK tH-q8LXgHEc
+[download] 100% of    3.89MiB in 00:00:01 at 2.44MiB/s[39/178] tH-q8LXgHEc: done
+                                                      OK tH17JPjDPnc
+[download] 100% of    3.24MiB in 00:00:00 at 5.04MiB/s[40/178] tH17JPjDPnc: done
+                                                      OK tK4VlLsNxak
+[download] 100% of    1.22MiB in 00:00:00 at 2.18MiB/s[41/178] tK4VlLsNxak: done
+                                                      OK tPJvjq9QePY
+[download] 100% of    2.76MiB in 00:00:00 at 3.13MiB/s[42/178] tPJvjq9QePY: done
+                                                      OK tQWGZLItBXk
+[download] 100% of    3.59MiB in 00:00:01 at 2.34MiB/s[43/178] tQWGZLItBXk: done
+                                                      OK tRJVUSdMjQI
+[download] 100% of    1.45MiB in 00:00:00 at 2.23MiB/s[44/178] tRJVUSdMjQI: done
+                                                      OK tZGN5a7ybxo
+[download] 100% of    1.00MiB in 00:00:00 at 1.93MiB/s[45/178] tZGN5a7ybxo: done
+                                                      OK tcd9QCdjTI0
+[download] 100% of    1.23MiB in 00:00:00 at 2.18MiB/s[46/178] tcd9QCdjTI0: done
+                                                      OK tezvROoo4bs
+[download] 100% of 1012.27KiB in 00:00:00 at 2.23MiB/s[47/178] tezvROoo4bs: done
+                                                      OK ti_DFTC-5vU
+[download] 100% of    2.98MiB in 00:00:00 at 4.28MiB/s[48/178] ti_DFTC-5vU: done
+                                                      OK tvP4E1r7yk8
+[download] 100% of    1.20MiB in 00:00:00 at 1.86MiB/s[49/178] tvP4E1r7yk8: done
+                                                      OK u--KhUW8l1Y
+[download] 100% of    3.38MiB in 00:00:00 at 4.28MiB/s[50/178] u--KhUW8l1Y: done
+                                                      OK u-6osTkkOfY
+[download] 100% of    2.35MiB in 00:00:01 at 2.14MiB/s[51/178] u-6osTkkOfY: done
+                                                      OK u5RmF3c3_Aw
+[download] 100% of    2.31MiB in 00:00:00 at 2.41MiB/s[52/178] u5RmF3c3_Aw: done
+                                                      OK u6jIvCtKarQ
+[download] 100% of    2.27MiB in 00:00:00 at 2.89MiB/s[53/178] u6jIvCtKarQ: done
+                                                      OK u9A6VZQCZpU
+[download] 100% of    3.52MiB in 00:00:01 at 2.76MiB/s[54/178] u9A6VZQCZpU: done
+                                                      OK uC9dtII1KDI
+[download] 100% of    1.39MiB in 00:00:01 at 1.13MiB/s[55/178] uC9dtII1KDI: done
+                                                      OK uCuo8zAkTvE
+[download] 100% of    3.70MiB in 00:00:00 at 4.27MiB/s[56/178] uCuo8zAkTvE: done
+                                                      OK uFoga8sHpiw
+[download] 100% of    2.01MiB in 00:00:00 at 2.01MiB/s[57/178] uFoga8sHpiw: done
+                                                      OK uGS7O46tlSo
+[download] 100% of    4.27MiB in 00:00:01 at 2.65MiB/s[58/178] uGS7O46tlSo: done
+                                                      OK uJV8NDaHqqk
+[download] 100% of    1.12MiB in 00:00:00 at 1.43MiB/s[59/178] uJV8NDaHqqk: done
+                                                      OK uJe1Gvp-MeM
+[download] 100% of    1.88MiB in 00:00:00 at 2.25MiB/s[60/178] uJe1Gvp-MeM: done
+                                                      OK uK5doE8g_nY
+[download] 100% of    3.32MiB in 00:00:01 at 3.16MiB/s[61/178] uK5doE8g_nY: done
+                                                      OK uOpoD0gGXcs
+[download] 100% of    1.74MiB in 00:00:00 at 2.13MiB/s[62/178] uOpoD0gGXcs: done
+                                                      OK uP_Dn2BFTHk
+[download] 100% of    3.95MiB in 00:00:01 at 3.49MiB/s[63/178] uP_Dn2BFTHk: done
+                                                      OK uXxVebHsGZ8
+[download] 100% of    1.10MiB in 00:00:00 at 2.44MiB/s[64/178] uXxVebHsGZ8: done
+                                                      OK uYT5gxnyMWM
+[download] 100% of    2.56MiB in 00:00:01 at 2.32MiB/s[65/178] uYT5gxnyMWM: done
+                                                      OK ucQikcv96gM
+[download] 100% of    1.85MiB in 00:00:00 at 1.89MiB/s[66/178] ucQikcv96gM: done
+                                                      OK uiItxDsDMFI
+[download] 100% of    2.44MiB in 00:00:00 at 2.73MiB/s[67/178] uiItxDsDMFI: done
+                                                      OK uiNuH51lzVY
+[download] 100% of    1.26MiB in 00:00:00 at 2.37MiB/s[68/178] uiNuH51lzVY: done
+                                                      OK ukxt9I7eMMg
+[download] 100% of    1.22MiB in 00:00:00 at 1.45MiB/s[69/178] ukxt9I7eMMg: done
+                                                      OK uqFtmnhuqA8
+[download] 100% of    2.35MiB in 00:00:00 at 2.51MiB/s[70/178] uqFtmnhuqA8: done
+                                                      OK uzQnlJXBbOM
+[download] 100% of    4.63MiB in 00:00:01 at 4.10MiB/s[71/178] uzQnlJXBbOM: done
+                                                      OK v0x1odnXtP0
+[download] 100% of    1.54MiB in 00:00:01 at 1.25MiB/s[72/178] v0x1odnXtP0: done
+                                                      OK v3EwremxU2w
+[download] 100% of    1.64MiB in 00:00:00 at 2.07MiB/s[73/178] v3EwremxU2w: done
+                                                      OK v5cSxLaHADY
+[download] 100% of 1002.79KiB in 00:00:00 at 1.89MiB/s[74/178] v5cSxLaHADY: done
+                                                      OK v7Pz4dWmggg
+[download] 100% of    4.39MiB in 00:00:01 at 2.69MiB/s[75/178] v7Pz4dWmggg: done
+                                                      OK v8vMLTp5Dww
+[download] 100% of    1.60MiB in 00:00:00 at 2.76MiB/s[76/178] v8vMLTp5Dww: done
+                                                      OK vBslzh7saPw
+ERROR: Unable to download video: [Errno 2] No such file or directory: '/Users/tomzhou/Documents/DCASE/audio-review-platform/audio_cache/vH4z5OI5aNY.webm.part'
+FAIL vH4z5OI5aNY: ERROR: Unable to download video: [Errno 2] No such file or directory: '/Users/tomzhou/Documents/DCASE/audio-review-platform/audio_cache/vH4z5OI5aNY.webm.part'
+[download] 100% of    1.60MiB in 00:00:00 at 2.06MiB/s[77/178] vBslzh7saPw: done
+[78/178] vH4z5OI5aNY: FAILED
+                                                      OK vJrjSeP17yE
+[download] 100% of    3.17MiB in 00:00:01 at 2.28MiB/s[79/178] vJrjSeP17yE: done
+                                                      OK vSeGhaZt-aI
+[download] 100% of    3.05MiB in 00:00:00 at 5.04MiB/s[80/178] vSeGhaZt-aI: done
+                                                      OK vW4x7S1VfQc
+[download] 100% of    4.63MiB in 00:00:00 at 5.43MiB/s[81/178] vW4x7S1VfQc: done
+                                                      OK vZAqdHZ81yA
+[download] 100% of    1.23MiB in 00:00:00 at 1.56MiB/s[82/178] vZAqdHZ81yA: done
+                                                      OK v_OQfEIq_PY
+[download] 100% of    3.04MiB in 00:00:00 at 3.23MiB/s[83/178] v_OQfEIq_PY: done
+                                                      OK vaX_J_G3638
+[download] 100% of    1.14MiB in 00:00:01 at 1.14MiB/s[84/178] vaX_J_G3638: done
+                                                      OK vbr9mHKc8WM
+[download] 100% of    4.63MiB in 00:00:01 at 3.32MiB/s[85/178] vbr9mHKc8WM: done
+                                                      OK vcmWS_mvti8
+ERROR: [youtube] vddP56-ogds: This video is not available
+FAIL vddP56-ogds: ERROR: [youtube] vddP56-ogds: This video is not available
+[download] 100% of    1.02MiB in 00:00:00 at 1.36MiB/s[86/178] vcmWS_mvti8: done
+[87/178] vddP56-ogds: FAILED
+                                                      OK vdoxuJn9lTc
+[download] 100% of    1.18MiB in 00:00:00 at 1.49MiB/s[88/178] vdoxuJn9lTc: done
+                                                      OK vh30P49Po6s
+[download] 100% of    2.14MiB in 00:00:01 at 2.08MiB/s[89/178] vh30P49Po6s: done
+                                                      OK vimzuGQvdcU
+[download] 100% of    2.79MiB in 00:00:01 at 1.99MiB/s[90/178] vimzuGQvdcU: done
+                                                      OK viuTg1M-dqg
+[download] 100% of    1.03MiB in 00:00:00 at 1.36MiB/s[91/178] viuTg1M-dqg: done
+                                                      OK vlJS7LN2XyM
+[download] 100% of    1.03MiB in 00:00:00 at 1.36MiB/s[92/178] vlJS7LN2XyM: done
+                                                      OK vlS6YMeWAPo
+[download] 100% of    1.02MiB in 00:00:00 at 1.06MiB/s[93/178] vlS6YMeWAPo: done
+                                                      OK vmrxwuAMb2I
+[download] 100% of    1.92MiB in 00:00:01 at 1.78MiB/s[94/178] vmrxwuAMb2I: done
+                                                      OK vqZuVbG6-HI
+[download] 100% of    3.63MiB in 00:00:01 at 3.46MiB/s[95/178] vqZuVbG6-HI: done
+                                                      OK vr8ZXjEBhMQ
+[download] 100% of    3.16MiB in 00:00:01 at 2.79MiB/s[96/178] vr8ZXjEBhMQ: done
+                                                      OK vveS8HT7Uog
+[download] 100% of    3.54MiB in 00:00:01 at 3.25MiB/s[97/178] vveS8HT7Uog: done
+                                                      OK vzceMbkl_Wc
+[download] 100% of    2.30MiB in 00:00:01 at 2.04MiB/s[98/178] vzceMbkl_Wc: done
+                                                      OK vzxHnu-SFEw
+[download] 100% of    1.68MiB in 00:00:01 at 1.20MiB/s[99/178] vzxHnu-SFEw: done
+                                                      OK w0xsN8_X18Y
+[download] 100% of    1.68MiB in 00:00:00 at 1.86MiB/s[100/178] w0xsN8_X18Y: done
+                                                      OK w2bYrCVLT60
+[download] 100% of    2.77MiB in 00:00:01 at 2.26MiB/s[101/178] w2bYrCVLT60: done
+                                                      OK w2htir_si7g
+[download] 100% of    2.44MiB in 00:00:01 at 2.14MiB/s[102/178] w2htir_si7g: done
+                                                      OK w5W_5Kqtc8E
+[download] 100% of  616.86KiB in 00:00:00 at 891.62KiB/s[103/178] w5W_5Kqtc8E: done
+                                                        OK w6RTHR6AeAg
+[download] 100% of    3.96MiB in 00:00:01 at 3.67MiB/s[104/178] w6RTHR6AeAg: done
+                                                      OK w9lpbUn0hPc
+[download] 100% of    2.13MiB in 00:00:00 at 2.44MiB/s[105/178] w9lpbUn0hPc: done
+                                                      OK wDVMhEdTiVw
+[download] 100% of    3.54MiB in 00:00:01 at 3.02MiB/s[106/178] wDVMhEdTiVw: done
+                                                      OK wGKgwOP3h30
+[download] 100% of    3.21MiB in 00:00:01 at 2.87MiB/s[107/178] wGKgwOP3h30: done
+                                                      OK wIJK3-5y0kA
+[download] 100% of    2.90MiB in 00:00:01 at 2.77MiB/s[108/178] wIJK3-5y0kA: done
+                                                      OK wP8ZKrlx3oA
+[download] 100% of    3.07MiB in 00:00:01 at 2.76MiB/s[109/178] wP8ZKrlx3oA: done
+                                                      OK wPz6QRAkEb4
+[download] 100% of    1.40MiB in 00:00:01 at 1.32MiB/s[110/178] wPz6QRAkEb4: done
+                                                      OK wRBHTgrbiwg
+[download] 100% of    1.83MiB in 00:00:00 at 2.23MiB/s[111/178] wRBHTgrbiwg: done
+                                                      OK wWVxe57200I
+[download] 100% of    1.16MiB in 00:00:02 at 587.69KiB/s[112/178] wWVxe57200I: done
+                                                        OK weDbePuc-Xc
+[download] 100% of  946.73KiB in 00:00:00 at 1.15MiB/s[113/178] weDbePuc-Xc: done
+                                                      OK wfHeoPDLMaM
+[download] 100% of    1.40MiB in 00:00:00 at 1.71MiB/s[114/178] wfHeoPDLMaM: done
+                                                      OK wl44ppID9ds
+[download] 100% of    1.59MiB in 00:00:00 at 1.62MiB/s[115/178] wl44ppID9ds: done
+                                                      OK wnNNcxAPwGQ
+[download] 100% of    1.84MiB in 00:00:01 at 1.31MiB/s[116/178] wnNNcxAPwGQ: done
+                                                      OK wnpJndXuxLc
+[download] 100% of    1.10MiB in 00:00:01 at 1.07MiB/s[117/178] wnpJndXuxLc: done
+                                                      OK wqZ135_Ssz0
+[download] 100% of    1.05MiB in 00:00:00 at 1.08MiB/s[118/178] wqZ135_Ssz0: done
+                                                      OK wqugJOvBkhY
+[download] 100% of    3.24MiB in 00:00:01 at 2.94MiB/s[119/178] wqugJOvBkhY: done
+                                                      OK wsHBIgzs9Fs
+[download] 100% of    1.57MiB in 00:00:01 at 964.98KiB/s[120/178] wsHBIgzs9Fs: done
+                                                        OK wudZTNBtVqc
+[download] 100% of    1.10MiB in 00:00:00 at 1.43MiB/s[121/178] wudZTNBtVqc: done
+                                                      OK wulOEFdECWs
+ERROR: [youtube] wwyfGO2J__4: Video unavailable
+FAIL wwyfGO2J__4: ERROR: [youtube] wwyfGO2J__4: Video unavailable
+[download] 100% of    1.50MiB in 00:00:00 at 1.66MiB/s[122/178] wulOEFdECWs: done
+[123/178] wwyfGO2J__4: FAILED
+                                                      OK wz7N8YRy74I
+[download] 100% of    2.32MiB in 00:00:00 at 2.40MiB/s[124/178] wz7N8YRy74I: done
+                                                      OK wzXPRI7eXOM
+[download] 100% of    2.36MiB in 00:00:00 at 2.41MiB/s[125/178] wzXPRI7eXOM: done
+                                                      OK x-Yx0rqr1vY
+[download] 100% of    3.95MiB in 00:00:01 at 3.70MiB/s[126/178] x-Yx0rqr1vY: done
+                                                      OK x-gIWB__rIE
+[download] 100% of    2.90MiB in 00:00:01 at 2.06MiB/s[127/178] x-gIWB__rIE: done
+                                                      OK x4a9YGIw4ok
+[download] 100% of    2.76MiB in 00:00:00 at 3.12MiB/s[128/178] x4a9YGIw4ok: done
+                                                      OK x4dZyf9Gbj0
+[download] 100% of    4.43MiB in 00:00:01 at 2.89MiB/s[129/178] x4dZyf9Gbj0: done
+                                                      OK x5eIC7S0fbg
+[download] 100% of    3.23MiB in 00:00:01 at 2.31MiB/s[130/178] x5eIC7S0fbg: done
+                                                      OK x6ijhqRY38s
+[download] 100% of    3.16MiB in 00:00:01 at 2.86MiB/s[131/178] x6ijhqRY38s: done
+                                                      OK xDsO5LiaaAY
+[download] 100% of    1.74MiB in 00:00:01 at 1.50MiB/s[132/178] xDsO5LiaaAY: done
+                                                      OK xKB8O8LTs6s
+[download] 100% of    4.04MiB in 00:00:01 at 2.96MiB/s[133/178] xKB8O8LTs6s: done
+                                                      OK xNMovAf3o50
+[download] 100% of    1.15MiB in 00:00:01 at 1.06MiB/s[134/178] xNMovAf3o50: done
+                                                      OK xSKJGCItUWE
+[download] 100% of    1.91MiB in 00:00:00 at 2.90MiB/s[135/178] xSKJGCItUWE: done
+                                                      OK xSN_cBFt-PI
+[download] 100% of    1.61MiB in 00:00:00 at 2.87MiB/s[136/178] xSN_cBFt-PI: done
+                                                      OK xVzetIIzS9c
+[download] 100% of    2.73MiB in 00:00:00 at 3.14MiB/s[137/178] xVzetIIzS9c: done
+                                                      OK xZepNM9qcRA
+[download] 100% of    3.12MiB in 00:00:00 at 3.79MiB/s[138/178] xZepNM9qcRA: done
+                                                      OK x_l2PIWyXaM
+[download] 100% of    1.79MiB in 00:00:00 at 2.31MiB/s[139/178] x_l2PIWyXaM: done
+                                                      OK xmdGaCbvhFc
+[download] 100% of    1.25MiB in 00:00:00 at 2.71MiB/s[140/178] xmdGaCbvhFc: done
+                                                      OK xmiUIOhtZyQ
+[download] 100% of    2.38MiB in 00:00:00 at 4.52MiB/s[141/178] xmiUIOhtZyQ: done
+                                                      OK xtWeJ56-U-g
+[download] 100% of    2.97MiB in 00:00:00 at 4.72MiB/s[142/178] xtWeJ56-U-g: done
+                                                      OK xvDdE3zNf8Y
+[download] 100% of    3.70MiB in 00:00:00 at 4.09MiB/s[143/178] xvDdE3zNf8Y: done
+                                                      OK xx3yKzrSOBI
+[download] 100% of    1.10MiB in 00:00:00 at 1.22MiB/s[144/178] xx3yKzrSOBI: done
+                                                      OK y2ZBGpgbhHM
+[download] 100% of    3.35MiB in 00:00:00 at 3.49MiB/s[145/178] y2ZBGpgbhHM: done
+                                                      OK y4NpJekTMT8
+[download] 100% of    3.24MiB in 00:00:01 at 2.94MiB/s[146/178] y4NpJekTMT8: done
+                                                      OK yDoT73BWsdA
+[download] 100% of    2.60MiB in 00:00:01 at 2.58MiB/s[147/178] yDoT73BWsdA: done
+                                                      OK yHeVV-xeOxQ
+[download] 100% of    1.98MiB in 00:00:00 at 2.38MiB/s[148/178] yHeVV-xeOxQ: done
+                                                      OK yHtbLI6kxAc
+[download] 100% of    1.55MiB in 00:00:00 at 1.83MiB/s[149/178] yHtbLI6kxAc: done
+                                                      OK yKKOHg5xlPE
+[download] 100% of    1.40MiB in 00:00:00 at 2.41MiB/s[150/178] yKKOHg5xlPE: done
+                                                      OK yLCORCnd35Q
+[download] 100% of    3.41MiB in 00:00:00 at 3.66MiB/s[151/178] yLCORCnd35Q: done
+                                                      OK yRx9txMcBl0
+[download] 100% of    1.74MiB in 00:00:00 at 3.21MiB/s[152/178] yRx9txMcBl0: done
+                                                      OK yUsCyVRXMoY
+[download] 100% of    1.09MiB in 00:00:00 at 2.75MiB/s[153/178] yUsCyVRXMoY: done
+                                                      OK yVumC9TGknc
+ERROR: [youtube] yW6FWLSLkx4: Please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+FAIL yW6FWLSLkx4: ERROR: [youtube] yW6FWLSLkx4: Please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] yaln9y8I7ms: Please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+FAIL yaln9y8I7ms: ERROR: [youtube] yaln9y8I7ms: Please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[download] 100% of    1.22MiB in 00:00:00 at 2.16MiB/s[154/178] yVumC9TGknc: done
+[155/178] yW6FWLSLkx4: FAILED
+[156/178] yaln9y8I7ms: FAILED
+                                                      OK yeFvk9x0wWI
+[download] 100% of    2.47MiB in 00:00:00 at 3.60MiB/s[157/178] yeFvk9x0wWI: done
+                                                      OK yhQ2Lg-7qDY
+ERROR: [youtube] yiUDYRSJpJI: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+FAIL yiUDYRSJpJI: ERROR: [youtube] yiUDYRSJpJI: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+[download] 100% of    4.49MiB in 00:00:00 at 5.57MiB/s[158/178] yhQ2Lg-7qDY: done
+[159/178] yiUDYRSJpJI: FAILED
+                                                      OK yks4cLgIDMc
+[download] 100% of    1.24MiB in 00:00:00 at 1.65MiB/s[160/178] yks4cLgIDMc: done
+                                                      OK yswmmRZFItk
+[download] 100% of    2.08MiB in 00:00:00 at 2.97MiB/s[161/178] yswmmRZFItk: done
+                                                      OK z4VCMzobZbI
+[download] 100% of    1.14MiB in 00:00:01 at 1.10MiB/s[162/178] z4VCMzobZbI: done
+                                                      OK z4uELRI6p08
+[download] 100% of 1010.70KiB in 00:00:00 at 2.19MiB/s[163/178] z4uELRI6p08: done
+                                                      OK z5iUE5h0EPs
+[download] 100% of  948.70KiB in 00:00:00 at 2.13MiB/s[164/178] z5iUE5h0EPs: done
+                                                      OK z9-3K1PFMjw
+[download] 100% of    2.06MiB in 00:00:01 at 1.89MiB/s[165/178] z9-3K1PFMjw: done
+                                                      OK zAYW_RjbHHI
+[download] 100% of    1.00MiB in 00:00:00 at 1.04MiB/s[166/178] zAYW_RjbHHI: done
+                                                      OK zCrAfDfv6-A
+[download] 100% of    1.17MiB in 00:00:00 at 1.56MiB/s[167/178] zCrAfDfv6-A: done
+                                                      OK zF8yoL0rkbI
+[download] 100% of    1.03MiB in 00:00:00 at 1.30MiB/s[168/178] zF8yoL0rkbI: done
+                                                      OK zTLVJCo4WEE
+[download] 100% of    1.52MiB in 00:00:00 at 1.80MiB/s[169/178] zTLVJCo4WEE: done
+                                                      OK zU-oKUEckKo
+[download] 100% of    4.54MiB in 00:00:01 at 3.55MiB/s[170/178] zU-oKUEckKo: done
+                                                      OK zY3icUyMdh8
+[download] 100% of    3.42MiB in 00:00:01 at 3.03MiB/s[171/178] zY3icUyMdh8: done
+                                                      OK zgUgkpk78xU
+[download] 100% of    2.24MiB in 00:00:01 at 1.79MiB/s[172/178] zgUgkpk78xU: done
+                                                      OK zjTG0gaGCUI
+[download] 100% of    4.18MiB in 00:00:01 at 3.29MiB/s[173/178] zjTG0gaGCUI: done
+                                                      OK zk-xJGQU8-4
+[download] 100% of    4.02MiB in 00:02:29 at 27.59KiB/s[174/178] zk-xJGQU8-4: done
+                                                       OK zl3OnWjr3Y4
+[download] 100% of    1.30MiB in 00:00:00 at 1.34MiB/s[175/178] zl3OnWjr3Y4: done
+                                                      OK zsLxS-uLJTw
+[download] 100% of  734.41KiB in 00:00:00 at 1.66MiB/s[176/178] zsLxS-uLJTw: done
+                                                      OK zvmXKyAFq80
+[download] 100% of    1.05MiB in 00:00:00 at 2.15MiB/s[177/178] zvmXKyAFq80: done
+                                                      OK zwOBqeFTgiU
+[178/178] zwOBqeFTgiU: done
+
+171/178 cached. 7 failed.
+Failed vids: ['slZLHwNbbt4', 'vH4z5OI5aNY', 'vddP56-ogds', 'wwyfGO2J__4', 'yW6FWLSLkx4', 'yaln9y8I7ms', 'yiUDYRSJpJI']
