@@ -1,9 +1,13 @@
 import { del, list, put } from "@vercel/blob";
 import { NextResponse } from "next/server";
+import { sanitizeText, sanitizePredictions, ValidationError } from "@/lib/validation";
 
 const PREFIX = "profiles/";
 const MAX_BYTES = 2 * 1024 * 1024; // 2MB — predictions files are normally a few hundred KB
 const ID_RE = /^[a-z0-9-]+$/i;
+const MAX_FOLDER_LENGTH = 100;
+const MAX_NAME_LENGTH = 100;
+const MAX_ANNOTATION_LENGTH = 1000;
 
 export async function GET() {
   const { blobs } = await list({ prefix: PREFIX });
@@ -31,23 +35,33 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: "Upload too large (max 2MB)." }, { status: 413 });
   }
 
-  let body: { folder?: string; name?: string; annotation?: string; predictions?: Record<string, unknown> };
+  let body: unknown;
   try {
     body = JSON.parse(text);
   } catch {
     return NextResponse.json({ error: "Invalid JSON body." }, { status: 400 });
   }
+  if (typeof body !== "object" || body === null || Array.isArray(body)) {
+    return NextResponse.json({ error: "Request body must be a JSON object." }, { status: 400 });
+  }
+  const raw = body as Record<string, unknown>;
 
-  const folder = (body.folder ?? "").trim();
-  const name = (body.name ?? "").trim();
+  const folder = sanitizeText(raw.folder, MAX_FOLDER_LENGTH);
+  const name = sanitizeText(raw.name, MAX_NAME_LENGTH);
+  const annotation = sanitizeText(raw.annotation, MAX_ANNOTATION_LENGTH);
   if (!folder) {
     return NextResponse.json({ error: "Your name is required." }, { status: 400 });
   }
   if (!name) {
     return NextResponse.json({ error: "Profile name is required." }, { status: 400 });
   }
-  if (!body.predictions || typeof body.predictions !== "object" || Array.isArray(body.predictions)) {
-    return NextResponse.json({ error: "Missing or invalid predictions." }, { status: 400 });
+
+  let predictions: ReturnType<typeof sanitizePredictions>;
+  try {
+    predictions = sanitizePredictions(raw.predictions);
+  } catch (err) {
+    const message = err instanceof ValidationError ? err.message : "Invalid predictions.";
+    return NextResponse.json({ error: message }, { status: 400 });
   }
 
   const id = `${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 8)}`;
@@ -55,9 +69,9 @@ export async function POST(request: Request) {
     id,
     folder,
     name,
-    annotation: (body.annotation ?? "").trim(),
+    annotation,
     uploadedAt: new Date().toISOString(),
-    predictions: body.predictions,
+    predictions,
   };
 
   await put(`${PREFIX}${id}.json`, JSON.stringify(profile), {
