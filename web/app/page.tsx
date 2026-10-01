@@ -19,7 +19,8 @@ import { top1Iou } from "@/lib/iou";
 import { LABEL_WIDTH } from "@/lib/layout";
 import { fetchProfiles, deleteProfile, type CommunityProfile } from "@/lib/profilesApi";
 
-const AUDIO_BASE = process.env.NEXT_PUBLIC_AUDIO_BASE_URL ?? "/audio";
+// Served from web/public/audio (the Blob store was blocked).
+const AUDIO_BASE = "/audio";
 const COMMUNITY_POLL_MS = 25_000;
 
 export default function Home() {
